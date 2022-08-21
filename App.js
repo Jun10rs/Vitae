@@ -20,7 +20,7 @@ export default function App() {
     <SafeAreaView style={styles.app}>
       <Button
         title="aperte"
-        color="red"
+        color="blue"
         onPress={mostrarOla}
       />
 
