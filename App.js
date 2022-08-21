@@ -47,7 +47,7 @@ export default function App() {
           five centuries, but also the leap into electronic typesetting,
           remaining essentially unchanged. It was popularised in the 1960s with
           the release of Letraset sheets containing Lorem Ipsum passages, and
-          more recently with desktop{" "}
+          more recently with desktop
         </Text>
         <Text style={styles.descriptionMyLife}>
           Lorem Ipsum is simply dummy text of the printing and typesetting
@@ -67,7 +67,7 @@ export default function App() {
           five centuries, but also the leap into electronic typesetting,
           remaining essentially unchanged. It was popularised in the 1960s with
           the release of Letraset sheets containing Lorem Ipsum passages, and
-          more recently with desktop{" "}
+          more recently with desktop
         </Text>
         <Text
           style={styles.descriptionMyLife}
@@ -197,7 +197,7 @@ const styles = StyleSheet.create({
     margin: 15,
   },
   myLife: {
-    color: "#999",
+    color: "#FFF",
     fontSize: 18,
     marginLeft: 20,
     marginTop: 20,
